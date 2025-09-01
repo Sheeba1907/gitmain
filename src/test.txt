@@ -1,1 +1,3 @@
 This is for commiting
+Adding a new line
+Trying stashing
